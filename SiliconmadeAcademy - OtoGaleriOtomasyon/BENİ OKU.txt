@@ -1,0 +1,1 @@
+Programı çalıştırmak için OtoGaleri.exe dosyasını çalıştırın.
