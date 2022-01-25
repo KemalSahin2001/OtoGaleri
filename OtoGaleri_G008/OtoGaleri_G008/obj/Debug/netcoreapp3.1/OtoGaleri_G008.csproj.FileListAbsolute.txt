@@ -1,0 +1,39 @@
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.exe
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.deps.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.runtimeconfig.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.dll
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.pdb
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.csprojAssemblyReference.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.dll
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.pdb
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.genruntimeconfig.cache
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.exe
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.deps.json
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.runtimeconfig.json
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.runtimeconfig.dev.json
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.dll
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.pdb
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.csprojAssemblyReference.cache
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.AssemblyInfoInputs.cache
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.AssemblyInfo.cs
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.csproj.CoreCompileInputs.cache
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.dll
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.pdb
+C:\Users\Atanur\Desktop\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.genruntimeconfig.cache
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.exe
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.deps.json
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.runtimeconfig.json
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.runtimeconfig.dev.json
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.dll
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\bin\Debug\netcoreapp3.1\OtoGaleri_G008.pdb
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.csprojAssemblyReference.cache
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.AssemblyInfoInputs.cache
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.AssemblyInfo.cs
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.csproj.CoreCompileInputs.cache
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.dll
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.pdb
+C:\Users\xraef\Desktop\Files\OtoGaleri_G008\OtoGaleri_G008\obj\Debug\netcoreapp3.1\OtoGaleri_G008.genruntimeconfig.cache
